@@ -1,0 +1,1 @@
+CREATE VIEW public.events_view
